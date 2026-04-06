@@ -4,4 +4,4 @@
 アプリ内で入力されたデータはすべてローカルで処理され、外部に送信されることはありません。
 インターネット通信は行いません。
 
-お問い合わせ先: damonde.soft@gmail.com
+お問い合わせ先: [google form](https://forms.gle/fDYb3cNqyKFp32PU6)
